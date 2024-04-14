@@ -1,0 +1,1 @@
+this is utility function of version 1
